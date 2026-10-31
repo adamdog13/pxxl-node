@@ -1,0 +1,7 @@
+node_modules/
+*.zip
+web-worker
+geoip.dat
+geosite.dat
+*.env
+pxxl.env
